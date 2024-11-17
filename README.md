@@ -1,4 +1,4 @@
-# FASTHTTPKIT
+# Fasthttpkit
 
 
 
@@ -22,6 +22,7 @@ fasthttpkit build
 - auto build proto  
 - auto openapi 
 - http monitor
+- support mysql,mariadb,sqlite,sqlcipher
 - more...
 
 > power by fasthttp,proto
